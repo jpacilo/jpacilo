@@ -1,6 +1,6 @@
 ## Hi, I'm Paolo 👋
 
-I'm an AI/ML practitioner with a bias towards action than blind perfectionism. I am based in 🇵🇭 where it's mostly 🌤️ or 🌧️. Outside development work, I play sports 🎾 and take pictures 📸 in my free time. I'm best reached via email.
+I'm an AI/ML practitioner with a bias towards action than blind perfectionism. I am based in 🇵🇭 where it's mostly 🌤️ or 🌧️. Outside development work, I play sports 🎾 and take pictures 📸 in my free time. I'm best reached via [email](joshuaacilo.13@gmail.com) for anything interesting.
 
 - 🎓 I am part of the pioneer batch of the AI program in UP Diliman, where I am currently studying Artificial Intelligence (MEng AI) in the graduate level.
 - ⛴️ I have worked with a supply chain tech startup in US, where I was involved in building and experimenting with doc AI solutions for the global trade.
