@@ -3,7 +3,7 @@
 I am an AI/ML practitioner with a bias towards action than perfectionism. I am based in 🇵🇭 where it's mostly 🌤️ or 🌧️. Outside development work, I play sports 🎾 and take [pictures](https://vsco.co/jpacilo/gallery) 📸 in my free time. I am best reached via [email](joshuaacilo.13@gmail.com) for anything interesting.
 
 <ins>Education</ins>
-- 🎓 I am part of the pioneer batch of the [AI program](https://coe.upd.edu.ph/masters-of-engineering-in-artificial-intelligence/) in the Philippines at UP Diliman, where I am currently studying MEngAI
+- 🎓 I am part of the pioneer batch of the [AI program](https://coe.upd.edu.ph/masters-of-engineering-in-artificial-intelligence/) in the 🇵🇭 at UP Diliman, where I am currently studying MEng in AI
 
 <ins>Current Work</ins>
 - 🏦 Working with a [dutch multinational bank](https://www.ing.com/Home.htm) in 🇳🇱 and a [tech consulting firm](https://www.cognizant.com/ph/en) in 🇵🇭🇺🇸, exploring genAI in DevOps & banking
