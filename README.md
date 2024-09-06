@@ -2,11 +2,13 @@
 
 I am an AI/ML practitioner with a bias towards action than perfectionism. I am based in 🇵🇭 where it's mostly 🌤️ or 🌧️. Outside development work, I play sports 🎾 and take [pictures](https://vsco.co/jpacilo/gallery) 📸 in my free time. I am best reached via [email](joshuaacilo.13@gmail.com) for anything interesting.
 
-In terms of education,
+<ins>Education/Background</ins>
 - 🎓 I am part of the pioneer batch of the [AI program](https://coe.upd.edu.ph/masters-of-engineering-in-artificial-intelligence/) in the Philippines at UP Diliman, where I am currently studying MEngAI
 
-In terms of work,
-- 🏦 Working with an EU multinational bank, exploring genAI and machine learning use cases in software engineering and DevOps like test automation
+<ins>Current Work</ins>
+- 🏦 Working with a [dutch multinational bank](https://www.ing.com/Home.htm) representing a multinational [tech consulting company](https://www.cognizant.com/ph/en), exploring genAI use cases in software engineering and DevOps
+
+<ins>Previous Work</ins>
 - 🚢 Worked with a [tech startup](https://www.expedock.com/) in US, experimenting with docAI models for processing complex paperworks in global trade
 - 📡 Worked with a [telco company](https://www.globe.com.ph/#gref) in PH, doing a wide plethora of tabular ML problems and kickstarting the geoDS practice
 
