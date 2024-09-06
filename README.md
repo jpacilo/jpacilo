@@ -6,7 +6,7 @@ I am an AI/ML practitioner with a bias towards action than perfectionism. I am b
 - 🎓 I am part of the pioneer batch of the [AI program](https://coe.upd.edu.ph/masters-of-engineering-in-artificial-intelligence/) in the Philippines at UP Diliman, where I am currently studying MEngAI
 
 <ins>Current Work</ins>
-- 🏦 Working with a [dutch multinational bank](https://www.ing.com/Home.htm) representing a multinational [tech consulting company](https://www.cognizant.com/ph/en), exploring generative AI and machine learning use cases in software engineering and DevOps
+- 🏦 Working with a [dutch multinational bank](https://www.ing.com/Home.htm) representing a multi-national [technology consulting company](https://www.cognizant.com/ph/en), exploring generative AI and machine learning use cases in the domains of software engineering and DevOps
 
 <ins>Previous Work</ins>
 - 🚢 Worked with a [tech startup](https://www.expedock.com/) in US, experimenting with docAI models for processing complex paperworks in global trade
