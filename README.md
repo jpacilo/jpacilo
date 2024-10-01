@@ -3,14 +3,14 @@
 I am an AI/ML practitioner with a bias towards action than perfectionism. I am based in 🇵🇭 where it's mostly 🌤️ or 🌧️. Outside development work, I play sports 🎾 and take [pictures](https://vsco.co/jpacilo/gallery) 📸 in my free time. I am best reached via [email](joshuaacilo.13@gmail.com) for anything interesting.
 
 <ins>Education</ins>
-- 🎓 I am part of the pioneer batch of the [AI program](https://coe.upd.edu.ph/masters-of-engineering-in-artificial-intelligence/) in the 🇵🇭 at UP Diliman, where I am currently studying MEng in AI
+- 🎓 I am part of the pioneer batch of the [AI program](https://coe.upd.edu.ph/masters-of-engineering-in-artificial-intelligence/) in the 🇵🇭 at UP Diliman, where I am currently studying MEng in AI. My focus is on computer vision, natural language processing, and multimodal learning applied to urban analytics problems.
 
 <ins>Current Work</ins>
-- 🏦 Working with a [dutch multinational bank](https://www.ing.com/Home.htm) in 🇳🇱 and a [tech consulting firm](https://www.cognizant.com/ph/en) in 🇵🇭🇺🇸, exploring genAI in DevOps & banking
+- 💳 Exploring genAI for software engineering and banking operations in a 🇳🇱 [multinational bank](https://www.ing.com/Home.htm) and a 🇵🇭🇺🇸 [tech consulting firm](https://www.cognizant.com/ph/en)
 
 <ins>Previous Work</ins>
-- 🚢 Worked with a [tech startup](https://www.expedock.com/) in 🇺🇸, experimenting with docAI models for processing complex paperworks in global trade
-- 📡 Worked with a [telco company](https://www.globe.com.ph/#gref) in 🇵🇭, doing a wide plethora of tabular ML problems and kickstarting the geoDS practice
+- 🚢 Experimented with docAI models for processing complex paperworks in global trade in a 🇺🇸 [tech startup](https://www.expedock.com/)
+- 📡 Delivered a wide plethora of tabular ML models and kickstarted the geoDS practice in a 🇵🇭 [telco company](https://www.globe.com.ph/#gref)
 
 <!--
 **jpacil0/jpacil0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
