@@ -6,7 +6,7 @@ I am an AI/ML practitioner with a bias towards action than perfectionism. I am b
 - 🎓 I am part of the pioneer batch of the [AI program](https://coe.upd.edu.ph/masters-of-engineering-in-artificial-intelligence/) in the 🇵🇭 at UP Diliman, where I am currently studying MEng in AI. My focus is on computer vision, natural language processing, and multimodal learning applied to urban analytics problems.
 
 <ins>Current Work</ins>
-- 💳 Exploring genAI for testing and banking operations in a 🇳🇱 [multinational bank](https://www.ing.com/Home.htm) and a 🇵🇭 [IT consulting firm](https://www.cognizant.com/ph/en)
+- 💳 Exploring genAI for testing and banking operations in a 🇳🇱 [multinational bank](https://www.ing.com/Home.htm) and an 🇵🇭 [IT consulting firm](https://www.cognizant.com/ph/en)
 
 <ins>Previous Work</ins>
 - 🚢 Experimented with docAI models for processing complex paperworks in global trade in a 🇺🇸 [tech startup](https://www.expedock.com/)
