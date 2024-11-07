@@ -7,7 +7,7 @@ I am an AI/ML practitioner with a bias towards action rather than perfectionism.
 - 🏙️ My focus is on computer vision, natural language processing, and multimodal learning applied to urban analytics.
 
 <ins>Work</ins>
-- 💳 Exploring genAI for software testing and banking operations in a 🇳🇱 [multinational bank](https://www.ing.com/Home.htm)
+- 💳 Exploring genAI and agentic workflows for software testing and banking operations in a 🇳🇱 [multinational bank](https://www.ing.com/Home.htm)
 - 🚢 Experimented with docAI models for processing complex paperworks in global trade in a 🇺🇸 [tech startup](https://www.expedock.com/)
 - 📡 Delivered a wide plethora of tabular ML models and kickstarted the geoDS practice in a 🇵🇭 [telco company](https://www.globe.com.ph/#gref)
 
