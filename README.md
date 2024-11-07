@@ -9,7 +9,7 @@ I am an AI/ML practitioner with a bias towards action rather than perfection. I 
 <ins>Work</ins>
 - 🏦 Exploring generative AI and agentic solutions for software testing and banking operations in a 🇳🇱 [multinational bank](https://www.ing.com/Home.htm)
 - 🚢 Experimented with multimodal doc AI models for processing complex paperworks in global trade in a 🇺🇸 [tech startup](https://www.expedock.com/)
-- 📡 Delivered a wide plethora of tabular ML models and kickstarted the spatial data science practice in a 🇵🇭 [telco giant](https://www.globe.com.ph/#gref)
+- 📡 Delivered a wide plethora of tabular ML solutions and kickstarted the spatial data science practice in a 🇵🇭 [telco giant](https://www.globe.com.ph/#gref)
 
 <!--
 **jpacil0/jpacil0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
