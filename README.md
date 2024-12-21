@@ -12,7 +12,7 @@ I am an AI/ML practitioner with a bias towards action rather than perfection. I 
 - 📡 Delivered classical ML & analytics solutions and kickstarted the spatial data science practice in a 🇵🇭 [telco giant](https://www.globe.com.ph/#gref)
 
 <ins>Open Source</ins>
-- Planning to be more active soon! (this is a WIP)
+- ⌛️ Planning to be more active soon! (WIP)
 
 <!--
 **jpacil0/jpacil0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
