@@ -3,7 +3,7 @@
 I am an AI/ML practitioner with a bias towards action rather than perfection. I am based in 🇵🇭 where it's mostly 🌤️ or 🌧️. Outside development work, I play sports 🎾 and take [pictures](https://vsco.co/jpacilo/gallery) 📸 in my free time. I am best reached via [email](joshuaacilo.13@gmail.com) for anything interesting.
 
 <ins>Study</ins>
-- 🌻 I am part of the pioneer batch of the [AI program](https://coe.upd.edu.ph/masters-of-engineering-in-artificial-intelligence/) in the 🇵🇭 at UP Diliman, where I am currently studying MEng in AI
+- 🌻 I am part of the pioneer batch of the [AI program](https://coe.upd.edu.ph/masters-of-engineering-in-artificial-intelligence/) in the 🇵🇭 at UP Diliman, where I am currently studying M.Eng. AI
 - 🏙️ My focus is on solving urban analytics problems using ViT-based models and multimodal geospatial datasets
 
 <ins>Industry</ins>
