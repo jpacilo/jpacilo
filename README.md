@@ -4,7 +4,7 @@ I am an AI/ML practitioner with a bias towards action rather than perfection. I 
 
 <ins>Study</ins>
 - 🌻 I am part of the pioneer batch of the [AI program](https://coe.upd.edu.ph/masters-of-engineering-in-artificial-intelligence/) in the 🇵🇭 at UP Diliman, where I am currently studying MEng in AI
-- 🏙️ My focus is on how can we solve urban analytics problems using ViT models and multimodal geospatial data
+- 🏙️ My focus is on urban analytics application using ViT-based models and multimodal geospatial data
 
 <ins>Industry</ins>
 - 🪙 Exploring gen AI and agentic solutions for software testing in banking w/ a 🇳🇱 multinational bank in a 🇺🇸 [IT/BPM firm](https://www.cognizant.com/us/en)
