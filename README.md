@@ -4,7 +4,7 @@ I am an AI/ML practitioner with a bias towards action rather than perfection. I 
 
 <ins>Education</ins>
 - 🌻 I am part of the pioneer batch of the [AI program](https://coe.upd.edu.ph/masters-of-engineering-in-artificial-intelligence/) in the 🇵🇭 at UP Diliman, where I am currently studying MEng in AI.
-- 🏙️ My focus is on remote sensing and vision-based transformers applied to urban analytics problems.
+- 🏙️ My focus is on vision-based transformers and multimodal geospatial datasets applied to urban analytics problems.
 
 <ins>Work</ins>
 - 🏦 Exploring generative AI and agentic solutions for software testing and banking operations w/ a 🇳🇱 multinational bank
