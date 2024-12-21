@@ -4,10 +4,10 @@ I am an AI/ML practitioner with a bias towards action rather than perfection. I 
 
 <ins>Education</ins>
 - 🌻 I am part of the pioneer batch of the [AI program](https://coe.upd.edu.ph/masters-of-engineering-in-artificial-intelligence/) in the 🇵🇭 at UP Diliman, where I am currently studying MEng in AI.
-- 🏙️ My focus is on computer vision, natural language processing, and multimodal learning applied to urban analytics.
+- 🏙️ My focus is on remote sensing and vision-based transformers applied to urban analytics problems.
 
 <ins>Work</ins>
-- 🏦 Exploring generative AI and agentic solutions for software testing and banking operations in a 🇳🇱 multinational bank
+- 🏦 Exploring generative AI and agentic solutions for software testing and banking operations w/ a 🇳🇱 multinational bank
 - 🚢 Experimented with multimodal doc AI models for processing complex paperworks in global trade in a 🇺🇸 [tech startup](https://www.expedock.com/)
 - 📡 Delivered a wide plethora of tabular ML solutions and kickstarted the spatial data science practice in a 🇵🇭 [telco giant](https://www.globe.com.ph/#gref)
 
