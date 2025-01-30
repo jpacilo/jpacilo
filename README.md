@@ -4,7 +4,7 @@ I am an AI/ML practitioner with a bias towards action rather than perfection. I 
 
 <ins>Education</ins>
 - 🌻 I am part of the pioneer batch of the [AI program](https://coe.upd.edu.ph/masters-of-engineering-in-artificial-intelligence/) in the 🇵🇭 at UP Diliman, where I am currently studying MEng AI
-- 🏙️ My research is on "spatial & climate justice" and on how we can use AI and network science to promote social equity
+- 🏙️ My research is on "spatial & climate justice" and on how we can use AI / network science to promote social equity
 
 <ins>Industry</ins>
 - 🪙 Exploring gen AI and agentic solutions for software testing in banking w/ a 🇳🇱 multinational bank in a 🇺🇸 [IT/BPM firm](https://www.cognizant.com/us/en)
