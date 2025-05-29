@@ -4,8 +4,6 @@ I'm a software engineer (thinks in systems) and a data scientist (thinks in patt
 
 I'm based in 🇸🇬 where it's mostly 🌤️ or 🌧️. Outside work, I play 🎾, take 📸, ride 🚴‍♂️, drink ☕️, and travel 🌏.
 
-I am best reached via [email](joshuaacilo.13@gmail.com) for anything interesting.
-
 <!--
 **jpacil0/jpacil0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
