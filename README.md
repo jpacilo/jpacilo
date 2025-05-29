@@ -1,6 +1,6 @@
 ## Hi, I'm Paolo 👋
 
-I'm a software engineer and data scientist currently working in the intersection of climate, energy, sustainability, and AI. I'm based in 🇸🇬 where it's mostly 🌤️ or 🌧️. Outside work, I play 🎾, take 📸, and ride 🚴‍♂️. I am best reached via [email](joshuaacilo.13@gmail.com) for anything interesting.
+I'm a software engineer and data scientist currently working in the intersection of climate, energy, sustainability + AI. I'm based in 🇸🇬 where it's mostly 🌤️ or 🌧️. Outside work, I play 🎾, take 📸, and ride 🚴‍♂️. I am best reached via [email](joshuaacilo.13@gmail.com) for anything interesting.
 
 <!--
 **jpacil0/jpacil0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
