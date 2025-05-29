@@ -1,6 +1,8 @@
 ## Hi, I'm Paolo 👋
 
-I'm a software engineer (thinks in systems) and a data scientist (thinks in patterns) currently working in the intersection of climate, energy, sustainability + AI. I'm based in 🇸🇬 where it's mostly 🌤️ or 🌧️. Outside work, I play 🎾, take 📸, and ride 🚴‍♂️.
+I'm a software engineer (thinks in systems) and a data scientist (thinks in patterns) currently working in the intersection of climate, energy, sustainability + AI.
+
+I'm based in 🇸🇬 where it's mostly 🌤️ or 🌧️. Outside work, I play 🎾, take 📸, ride 🚴‍♂️, drink ☕️, and travel 🌏.
 
 I am best reached via [email](joshuaacilo.13@gmail.com) for anything interesting.
 
