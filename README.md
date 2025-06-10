@@ -1,6 +1,6 @@
 ## Hi, I'm Paolo 👋
 
-I'm a software engineer (thinks in systems) and a data scientist (thinks in patterns) currently working in the intersection of climate, energy, sustainability + AI.
+I'm a software engineer (thinks in systems) and a data scientist (thinks in patterns) working in the intersection of climate, energy, sustainability + AI.
 
 I'm based in 🇸🇬 where it's mostly 🌤️ or 🌧️. Outside work, I play 🎾, take 📸, ride 🚴‍♂️, drink ☕️, and travel 🌏.
 
