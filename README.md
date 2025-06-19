@@ -2,7 +2,9 @@
 
 I'm a software engineer (thinks in systems) and a data scientist (thinks in patterns) working in the intersection of climate, energy, sustainability + AI.
 
-I'm based in 🇸🇬 where it's mostly 🌤️ or 🌧️. Outside work, I play 🎾, take 📸, ride 🚴‍♂️, drink ☕️, and travel 🌏.
+I'm based in 🇸🇬 where it's mostly 🌤️ or 🌧️.
+
+Outside work, I play 🎾, take 📸, drink ☕️, and travel 🌏.
 
 <!--
 **jpacil0/jpacil0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
