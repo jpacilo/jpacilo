@@ -1,6 +1,6 @@
 ## Hi, I'm Paolo 👋
 
-I'm a data scientist and a software engineer working in the intersection of climate, energy, sustainability + AI. I'm based in sunny 🇸🇬. I aspire to build the next gen of AI-powered solutions that can fix our climate problem.
+I'm a data scientist and a software engineer working in the intersection of climate, energy, sustainability + AI. I'm based in sunny 🇸🇬. I aspire to build the next gen of AI-powered solutions that can help fix our climate problem.
 
 Outside work——I play 🎾, shoot 📸, drink ☕️, and travel 🌏.
 
