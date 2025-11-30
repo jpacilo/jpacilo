@@ -1,8 +1,8 @@
 ## Hi, I'm Paolo 👋
 
 I'm a data scientist and a software engineer working in the intersection of climate action + AI. Currently, I'm exploring:
-- How we can identify green equity gaps in the built environment from developing countries using computer vision, statistics, and AI
-- How we can leverage agentic AI systems to accelerate energy system modelling (discovery + optimization + copilot) workflows
+- How we can identify green equity gaps in the built environment using computer vision, statistics, and AI
+- How we can leverage agentic AI systems to accelerate energy system modelling (discovery + optimization)
 
 Outside development work, I play 🎾, shoot 📸, and drink ☕️
 
