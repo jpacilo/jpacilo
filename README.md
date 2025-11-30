@@ -1,8 +1,8 @@
 ## Hi, I'm Paolo 👋
 
-I'm a data scientist and a software engineer working in the intersection of climate, energy, sustainability + AI. I'm based in sunny 🇸🇬. I aspire to build the next gen of AI-powered solutions that can help fix our climate problem.
+I'm a data scientist and a software engineer working in the intersection of climate, energy, sustainability + AI
 
-Outside work——I play 🎾, shoot 📸, drink ☕️, and travel 🌏.
+Outside work, I play 🎾, shoot 📸, and drink ☕️
 
 <!--
 **jpacil0/jpacil0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
