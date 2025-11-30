@@ -2,7 +2,7 @@
 
 I'm a data scientist and a software engineer working in the intersection of climate, energy, sustainability + AI
 
-Outside work, I play 🎾, shoot 📸, and drink ☕️
+Outside development work, I play 🎾, shoot 📸, and drink ☕️
 
 I'm best reached via email for anything interesting!
 
