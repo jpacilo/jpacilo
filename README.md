@@ -2,7 +2,7 @@
 
 I'm a data scientist and a software engineer working in the intersection of climate, energy, sustainability + AI
 
-Outside work, I play 🎾, shoot 📸, and drink ☕️
+Outside work, I play 🎾, shoot 📸, and drink ☕️. I'm best reached via email for anything interesting.
 
 <!--
 **jpacil0/jpacil0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
