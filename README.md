@@ -1,6 +1,8 @@
 ## Hi, I'm JP 👋
 
-I'm a data scientist and a software engineer working in the intersection of climate action + AI. Currently, I'm exploring:
+I'm a data scientist and a software engineer working in the intersection of climate action + AI.
+
+Currently, I'm exploring:
 - How we can identify green equity gaps in the built environment using computer vision, spatial statistics, & AI
 - How we can leverage agentic AI systems to accelerate energy system modelling (discovery + optimization)
 
