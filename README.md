@@ -1,4 +1,4 @@
-## Hi, I'm JP 👋
+## Hi, I'm Joshua 👋
 
 I'm a data scientist and a software engineer working in the intersection of climate action + AI.
 
