@@ -1,6 +1,6 @@
 ## Hi, I'm Joshua 👋
 
-I'm a data scientist and a software engineer working in the intersection sustainability, data science, and AI.
+I'm a data scientist and a software engineer. I am broadly interested in the modern applications of AI/ML and data science in the sustainability field.
 
 I'm best reached via email for anything interesting!
 
